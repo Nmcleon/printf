@@ -29,9 +29,7 @@ For this project, we expect you to look at these concepts:
 * Flowcharts concept page
 
 ## Compilation
-'''
 $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
-'''
 
 ## Write a function that produces output according to a format.
 * Prototype: int _printf(const char *format, ...);
